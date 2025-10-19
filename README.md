@@ -110,7 +110,7 @@
   <footer>Best Wishes And Regards From The Boys Of Class 11A2💗</footer>
 
   <audio id="bg-music" loop>
-    <source src="music/Beautiful_in_White.mp3" type="audio/mpeg">
+    <source src="Beautiful_in_White.mp3" type="audio/mpeg">
   </audio>
 
   <button id="music-btn" onclick="toggleMusic()">🎵</button>
